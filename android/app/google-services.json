@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "699443435975",
+    "project_id": "airfares-c5133",
+    "storage_bucket": "airfares-c5133.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699443435975:android:e4da8dff74d46ecd5021e2",
+        "android_client_info": {
+          "package_name": "com.bek.aviatickets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699443435975-p4oku7frgsa6ov5vmmtt2vahgj1bkbn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg2VBjNb-ZCXou0i4nlFa9fU-YH4z6QMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699443435975-p4oku7frgsa6ov5vmmtt2vahgj1bkbn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
